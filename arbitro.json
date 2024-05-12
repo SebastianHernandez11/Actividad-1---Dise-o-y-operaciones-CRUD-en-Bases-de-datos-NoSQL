@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "61d71e0d33c9f0547630c55a"
+  },
+  "Nombres": "Jorge Andres",
+  "Apellidos": "Parra Perez",
+  "Edad": 36,
+  "Cedula": 1002345678,
+  "Celular": 322732457900,
+  "Nacionalidad": "Argentino"
+},{
+  "_id": {
+    "$oid": "61d71ed833c9f0547630c55b"
+  },
+  "Nombres": "Andres",
+  "Apellidos": "Torres Paz",
+  "Edad": 33,
+  "Cedula": 1003400905,
+  "Celular": 3010123499,
+  "Nacionalidad": "Colombiano"
+},{
+  "_id": {
+    "$oid": "61d783c2f5563ceee5822cf9"
+  },
+  "Nombres": "Miguel Antonio",
+  "Apellidos": "Parra Cruz",
+  "Edad": 30,
+  "Cedula": 1001044567,
+  "Celular": 3227300522,
+  "Nacionalidad": "Chileno"
+},{
+  "_id": {
+    "$oid": "61d783e7f5563ceee5822cfa"
+  },
+  "Nombres": "Luis Sebastian",
+  "Apellidos": "Torea Molina",
+  "Edad": 31,
+  "Cedula": 1020504030,
+  "Celular": 3220052230,
+  "Nacionalidad": "Colombiano"
+}]
