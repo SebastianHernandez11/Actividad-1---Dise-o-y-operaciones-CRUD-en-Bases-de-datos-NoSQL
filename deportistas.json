@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "61d7214433c9f0547630c55c"
+  },
+  "Nombres": "Pedro",
+  "Apellidos": "Gomez Salazar",
+  "Edad": 20,
+  "Cedula": 1004105789,
+  "Celular": 3007854422,
+  "Equipo": "Rangers Sa",
+  "Ranking": 7.8,
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Bogotá"
+},{
+  "_id": {
+    "$oid": "61d721be33c9f0547630c55d"
+  },
+  "Nombres": "Luis Alejandro",
+  "Apellidos": "Perea Gutierrez",
+  "Edad": 25,
+  "Cedula": 10010337890,
+  "Celular": 3203523444,
+  "Equipo": "Dinamit Out",
+  "Ranking": 8.3,
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Manizales"
+},{
+  "_id": {
+    "$oid": "61d7846df5563ceee5822cfb"
+  },
+  "Nombres": "Sebastian",
+  "Apellidos": "Salazar Ruiz",
+  "Edad": 23,
+  "Cedula": 1004254555,
+  "Celular": 3007802123,
+  "Equipo": "Dinamit Out",
+  "Ranking": 7.6,
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Bogotá"
+},{
+  "_id": {
+    "$oid": "61d7847df5563ceee5822cfc"
+  },
+  "Nombres": "Patricio",
+  "Apellidos": "Garcia Ramirez",
+  "Edad": 22,
+  "Cedula": 1025647899,
+  "Celular": 3025564881,
+  "Equipo": "Rangers Sa",
+  "Ranking": 8,
+  "Nacionalidad": "Chileno",
+  "Ciudad": "Santiago de chile"
+},{
+  "_id": {
+    "$oid": "61d7859ff5563ceee5822cfe"
+  },
+  "Nombres": "Brayan",
+  "Apellidos": "Rivera Niño",
+  "Edad": 21,
+  "Cedula": 1001044860,
+  "Celular": 3227398889,
+  "Equipo": "Rangers Sa",
+  "Ranking": 8.1,
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Cartagena"
+}]
