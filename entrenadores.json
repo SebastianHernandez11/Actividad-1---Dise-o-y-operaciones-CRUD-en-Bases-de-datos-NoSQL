@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "61d74c9833c9f0547630c561"
+  },
+  "Nombres": "Dilan Esteban",
+  "Apellidos": "Jimenez Gutierrez",
+  "Edad": 45,
+  "Cedula": 30793465,
+  "Celular": 3203423349,
+  "Equipo": "Dinamit Out",
+  "Nacionalidad": "Colombiano"
+},{
+  "_id": {
+    "$oid": "61d74ced33c9f0547630c562"
+  },
+  "Nombres": "Fernando",
+  "Apellidos": "Suarez Lopez",
+  "Edad": 41,
+  "Cedula": 80009764,
+  "Celular": 3118772209,
+  "Equipo": "Rangers Sa",
+  "Nacionalidad": "Chileno"
+}]
