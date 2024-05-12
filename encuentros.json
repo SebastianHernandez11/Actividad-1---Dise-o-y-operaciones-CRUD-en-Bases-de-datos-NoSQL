@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "61d725fb33c9f0547630c55f"
+  },
+  "Fecha": "23/12/2021",
+  "Hora": "8:00 am",
+  "Lugar": "Sala Deportiva del Metropolitano",
+  "Equipo Local": "Dinamit Out",
+  "Equipo Visitante": "Rangers Sa",
+  "Estado": "Jugado",
+  "Resultado Final": "Victoria Local",
+  "Arbitros": [
+    "Andres Torres Paz",
+    "Jorge Andres Parra Perez"
+  ]
+},{
+  "_id": {
+    "$oid": "61d729a133c9f0547630c560"
+  },
+  "Fecha": "04/01/2022",
+  "Hora": "6:00 pm",
+  "Lugar": "Sala Deportiva del Metropolitano",
+  "Equipo Local": "Dinamit Out",
+  "Equipo Visitante": "Rangers Sa",
+  "Estado": "Jugado",
+  "Resultado Final": "Empate",
+  "Arbitros": [
+    "Andres Torres Paz",
+    "Jorge Andres Parra Perez"
+  ]
+}]
