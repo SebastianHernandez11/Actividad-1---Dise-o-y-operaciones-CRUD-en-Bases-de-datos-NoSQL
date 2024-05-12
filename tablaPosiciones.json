@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "61d74fd533c9f0547630c565"
+  },
+  "Posición": 1,
+  "Equipo": "Dinamit Out",
+  "Partidos Jugados": 2,
+  "Victorias": 1,
+  "Empates": 1,
+  "Derrotas": 0,
+  "Puntos": 4
+},{
+  "_id": {
+    "$oid": "61d74ff533c9f0547630c566"
+  },
+  "Posición": 2,
+  "Equipo": "Rangers Sa",
+  "Partidos Jugados": 2,
+  "Victorias": 0,
+  "Empates": 1,
+  "Derrotas": 1,
+  "Puntos": 1
+}]
